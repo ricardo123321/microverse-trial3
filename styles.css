@@ -1,14 +1,18 @@
 html {
     font-size: 20px;
+    font-family: 'Domine', serif;
+    line-height: 1.5em;
 }
 
 #title {
     text-align: center;
+    font-family: 'Pacifico', cursive;
 }
 
 #img-div {
     width: 80%;
     margin: 0 auto;
+    background-color: rgb(161, 170, 33);
 }
 
 img {
@@ -17,4 +21,16 @@ img {
     max-width: 50em;
     margin: 0 auto;
     max-width: ;
+}
+#img-caption{
+    margin: 0 auto;
+    text-align: center;
+     font-size: 0.75em;
+     font-style: italic;
+}
+h2{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-family: 'Pacifico', cursive;
 }
