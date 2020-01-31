@@ -12,15 +12,16 @@ html {
 #img-div {
     width: 80%;
     margin: 0 auto;
-    background-color: rgb(161, 170, 33);
+    background-color: rgb(189, 94, 58);
+    padding: 0 1em;
 }
 
 img {
     display: block;
     width: 100%;
-    max-width: 50em;
+    max-width: 57em;
     margin: 0 auto;
-    max-width: ;
+    padding-top: 0.9em;
 }
 #img-caption{
     margin: 0 auto;
@@ -28,9 +29,15 @@ img {
      font-size: 0.75em;
      font-style: italic;
 }
+
 h2{
     text-align: center;
     margin: 0 auto;
     margin-top: 10px;
     font-family: 'Pacifico', cursive;
+}
+
+#tribute-info {
+    width: 80%;
+    margin: 0 auto;
 }
